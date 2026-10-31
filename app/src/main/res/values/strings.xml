@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ilova Bloklagich</string>
+    <string name="accessibility_desc">Bloklangan ilovalarni ochishni va Play Marketdan yuklab olishni toʻsadi. Ekrandagi matnlar faqat Play Market sahifasini aniqlash uchun telefon ichida tekshiriladi va hech qayerga yuborilmaydi.</string>
+    <string name="guard_title">Himoya faol</string>
+    <string name="guard_text">Bloklangan ilovalar kuzatilmoqda</string>
+    <string name="channel_guard">Doimiy himoya</string>
+    <string name="channel_alerts">Bloklash xabarlari</string>
+</resources>
